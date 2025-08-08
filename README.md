@@ -38,6 +38,3 @@ The website features a simple and intuitive layout where users can explore flowe
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/ginoarellano/flower-website-using-visual-studio-2022.git
-
-*.user
-*.suo
